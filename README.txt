@@ -15,18 +15,16 @@
 
 インストール方法:
 1. Python をインストールしてください。
-2. pygameをインストールします:
+2. pygameをインストールしてください:
    pip install pygame
-3. ゲームを起動します:
+3. ゲームを起動してください:
    python Haruchan_Cannonball.py
 
 使用フォント:
-本ゲームでは以下のフォントを使用しています。
-
-- フォント名: IPAexフォント（Ver.004.01）
-- 配布元: https://moji.or.jp/ipafont/ipaex00401/
-- ライセンス: IPAフォントライセンス v1.0
-- ライセンス詳細: https://moji.or.jp/ipafont/license/
+- IPAexフォント（Ver.004.01）
+  - 配布元: https://moji.or.jp/ipafont/ipaex00401/
+  - ライセンス: IPAフォントライセンス v1.0
+  - ライセンス詳細: https://moji.or.jp/ipafont/license/
 
 このフォントは、IPAフォントライセンス v1.0 に基づいて使用しています。
 
