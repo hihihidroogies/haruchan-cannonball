@@ -13,12 +13,12 @@
 - Python 3.13
 - pygame 2.6.1 以上
 
-インストール方法:
+ゲーム起動方法:
 1. Python をインストールしてください。
-2. pygameをインストールしてください:
+2. pygameをインストールしてください。
    pip install pygame
-3. ゲームを起動してください:
-   python game.py
+3. ゲームを起動してください。
+   game.py
 
 使用フォント:
 - IPAexフォント（Ver.004.01）
