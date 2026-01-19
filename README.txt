@@ -18,7 +18,7 @@
 2. pygameをインストールしてください:
    pip install pygame
 3. ゲームを起動してください:
-   python Haruchan_Cannonball.py
+   python game.py
 
 使用フォント:
 - IPAexフォント（Ver.004.01）
